@@ -1,0 +1,1 @@
+let textareaEl = document.querySelector("#text");
